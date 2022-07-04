@@ -1,5 +1,6 @@
 package com.hjh.chap01.장점3;
 
+
 public interface Sword {
 
     void attack();
